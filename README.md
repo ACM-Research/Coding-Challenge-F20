@@ -1,4 +1,4 @@
-# Coding-Challenge
+# ACM Research Coding Challenge (Fall 2020)
 
 ## No Collaboration Policy
 
