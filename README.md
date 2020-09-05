@@ -1,5 +1,9 @@
 # Coding-Challenge
 
+## No Collaboration Policy
+
+**You may not collaborate with anyone on this challenge.** You _are_ allowed to use Internet documentation. If you _do_ use existing code (either from Github, Stack Overflow, or other sources), **please cite your sources in the README**.
+
 ## Submission Procedure
 
 Please follow the below instructions on how to submit your answers.
